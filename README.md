@@ -25,5 +25,5 @@ Crosplatform artifact to run this java 15 should be installed
 This jar should work on Linux, Mac and Windows.
 
 # Documentation 
-You can find project documentation here [link](https://github.com/ViktorHi/kg-lab01/tree/master/doc)
+You can find more project documentation here [link](https://github.com/ViktorHi/kg-lab01/tree/master/doc)
 
