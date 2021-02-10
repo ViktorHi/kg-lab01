@@ -1,8 +1,8 @@
 # Color Converter (Lab 01)
 Symple application provide apportunities to convert RGB, HSL and CMYK into each other.
-[](https://github.com/ViktorHi/kg-lab01/blob/master/doc/images/main.png)
+![](https://github.com/ViktorHi/kg-lab01/blob/master/doc/images/main.png)
 Error message in case of incorrect input 
-[](https://github.com/ViktorHi/kg-lab01/blob/master/doc/images/error_message.png)
+![](https://github.com/ViktorHi/kg-lab01/blob/master/doc/images/error_message.png)
 
 # Build 
 To build application from sources you should use *Maven* 
