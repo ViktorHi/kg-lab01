@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"com.vikras.color","l":"CMYK"},{"p":"com.vikras.color","l":"HSL"},{"p":"com.vikras.util","l":"MathUtils"},{"p":"com.vikras.color","l":"RGB"},{"p":"com.vikras","l":"Task"},{"p":"com.vikras","l":"Tasker"},{"p":"com.vikras","l":"TaskTest"}];updateSearchResults();

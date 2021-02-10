@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"org.openjfx","l":"App"},{"p":"org.openjfx.model","l":"ColorChangedListener"},{"p":"org.openjfx.model","l":"Engine"},{"p":"org.openjfx","l":"Launcher"},{"p":"org.openjfx.controller","l":"MainController"}];updateSearchResults();

@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.vikras"},{"l":"com.vikras.color"},{"l":"com.vikras.util"}];updateSearchResults();
