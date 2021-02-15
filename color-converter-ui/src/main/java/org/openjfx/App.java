@@ -16,6 +16,7 @@ public class App extends Application {
 
     @Override
     public void start(Stage primaryStage) throws Exception{
+        Locale.setDefault(Locale.ENGLISH);
         FXMLLoader loader = new FXMLLoader(App.class.getResource("main.fxml"));
         Parent root = loader.load();
         primaryStage.setTitle("Color converter");
