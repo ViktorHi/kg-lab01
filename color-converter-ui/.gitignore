@@ -49,6 +49,9 @@ cmake-build-*/
 # IntelliJ
 out/
 
+vcx.xml
+
+
 shade/
 
 taget/
